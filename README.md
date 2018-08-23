@@ -1,6 +1,6 @@
 # FAQs Semantic Matcher 
 A Frequently Asked Questions (FAQs) semantic matching application that produce improved results using NLP features and techniques.
-# Below is the description of each file in the folder:
+# Description of each file in the folder:
 1. Folder stanford-parser-full-2018-02027: Contains two jar files which are used in Semantic_matcher.py
 2. Corpus.txt: Corpus of 50 faqs and answers
 3. libsvm.py: ML model Implementation(Task-4)
