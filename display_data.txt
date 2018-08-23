@@ -1,0 +1,61 @@
+*****Training data******
+Same:
+When will my first cable bill arrive in the mail?(1)
+What do I do if I want to change the name on my account?(1)
+What is the Better Guarantee?(1)
+
+How are you doing today?
+What is tomorrow’s weather?
+
+jumbled sentence:
+make how you include a service(1)
+Address how to bill pay my mail(1)
+Services included what are?(1)
+
+?What color my hair is
+I hell go to
+
+hypernyms(bill, service, address):
+How to pay my statement online?(1)
+I am not satisfied with your work, who should I talk to?(1)
+How to change my mail location?(1)
+What is my safety code?(security)(1)
+
+Would you like some chips?(0)
+
+
+hyponyms(bill, inventory,)
+How to pay my check online?(bill)(1)
+What is my account PIN?(number)(1)
+Is there any guarantee for your inventory?(1)
+What if I am moving to farness?(distance)(1)
+
+What is  the color of your laptop?(0)
+
+meronyms:
+How to pay my bill through letter?(mail)(1)
+What should I do if I move to down town?(city)(1)
+Why do you bill one week in advance?(month)(1)
+
+When are you planning to travel?(0)
+I love trades joe’s(0)
+
+
+holonyms（bill）:
+Can I transfer the account in my name to my marriage partner?(1)
+how to change my banking system account number?(bank)(1)
+
+Where did you study?
+Do you like your new iPhone?
+Are you hungry?
+
+
+*****Test_data*****
+
+What is a One-Time Payment?(1)
+I am very happy today.(0)
+What should I do to log into my account?(1)
+How do I notify you that I'm moving?(1)
+Are you going for the class?(0)
+
+
